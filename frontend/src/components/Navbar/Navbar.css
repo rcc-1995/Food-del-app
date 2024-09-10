@@ -95,6 +95,11 @@ position: relative;
     height: 1px;
     border: none;
 }
+
+.img-iconn{
+  cursor:pointer;
+}
+
 @media (max-width:1050px) {
     .navbar .logo {
         width: 140px;
